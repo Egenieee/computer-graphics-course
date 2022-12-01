@@ -25,5 +25,7 @@ xcuserdata/
 /**/.DS_Store
 /**/j3a.*
 /**/toys.h
+/**/*.xcodeproj/
+/**/*.entitlements
 
 
