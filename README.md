@@ -28,3 +28,15 @@
 <br>
 
 ![lightedHabe](imgs/LightedHebe.gif)
+
+<br>
+
+---
+
+### 4. Texture Mapping T-Rex
+
+📝 3차원에서 Textrue Mapping을 적용해보자 ❗️
+
+<br>
+
+![TextureMappedT-Rex](imgs/TextureMappedT-Rex.gif)
