@@ -28,4 +28,4 @@ xcuserdata/
 /**/*.xcodeproj/
 /**/*.entitlements
 /**/*.j3a
-
+/**/stb_image.h
